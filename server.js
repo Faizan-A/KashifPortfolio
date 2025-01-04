@@ -14,7 +14,7 @@ const portfolioData = {
         { title: "Project 1", description: "GardenBot.", link: "#" },
         { title: "Project 2", description: "FUTURE", link: "#" }
     ],
-    skills: ["JavaScript", "HTML", "CSS", "C"],
+    skills: ["JavaScript", "HTML", "CSS", "C","Python"],
     contact: { email: "kashifabu04@gmail.com ", phone: "+91 9628074174" }
 };
 
